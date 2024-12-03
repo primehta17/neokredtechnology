@@ -6,7 +6,7 @@
    ```bash
    cd client
 2. npm install
-3. npm start
+3. npm start 
 
 ## **Backend Instructions**
 

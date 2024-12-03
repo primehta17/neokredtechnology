@@ -1,26 +1,17 @@
-# neokredtechnology
+# Neokredtechnology
 
+## **Frontend Instructions**
 
-INSTRUCTION OF neokredtechnology APP
+1. Navigate to the `client` directory:
+   ```bash
+   cd client
+2. npm install
+3. npm start
 
+## **Backend Instructions**
 
-
-=========
-FOR FRONTEND
-
-GO TO CLIENT
--cd cliend
--npm install
--npm start
-
-=> it will run at http://localhost:3000/
-=========
-FOR BACKEND
-
-GO TO SERVER
--cd server
--npm install 
--npm start
-
-=> it will run at http://localhost:8080
-=====
+1. Navigate to the `server` directory:
+   ```bash
+   cd server
+2. npm install
+3. npm start
